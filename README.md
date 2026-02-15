@@ -1,31 +1,276 @@
-# 💫 About Me:
-An AWS Data Engineer with more than 7+ years of experience in both service and product companies, I excel in architecting and implementing data solutions that empower organizations to harness the full potential of their data assets. I have successfully executed complex cloud data migration projects and tackled diverse data challenges.Throughout my career, I have designed and optimized scalable data pipelines capable of handling petabytes of data with both batch and real-time processing capabilities. I am proficient in leveraging AWS technologies, including, to create efficient and serverless data architectures that enhance operational efficiency and reduce costs.<br><br>KEY SKILLS:<br><br>- AWS SERVICES: Airflow, Amazon Q, API Gateway, Athena, Aurora, Billing & Cost Management, Cloud9,<br>CloudFormation, CloudFront, CloudTrail, CloudWatch, Cognito, CodeArtifact, CodeBuild, CodeCommit, CodeDeploy,<br>CodePipeline, DMS, Direct Connect, DocumentDB, DynamoDB, EBS, ECR, ECS, EFS, EMR, EventBridge, Fargate, Glue,<br>Glue DataBrew, IAM, IAM Identity Center, Kinesis, Kafka, LakeFormation, Lambda Function, QuickSight, RDS,<br>Redshift, Route53, SageMaker, S3, S3 Glacier, SES, SNS, SQS, Step Functions, Storage Gateway, System Manager,<br>AWS DataSync, AWS Health Dashboard, AWS Marketplace, AWS Transfer Family, AWS WAF, AWS Shield, Certificate<br>Manager<br><br>- DATABASES & WAREHOUSES: MySQL, Postgres, SQL Server, Oracle, MongoDB, Snowflake, BigQuery, Data Lake<br><br>- PROGRAMMING & SCRIPTING: Python, PySpark, Scala, SQL, Shell & Bash Scripting, Linux Commands<br><br>- ETL TOOLS: Informatica ILM, IDMC, IICS, DMExpress Syncsort, Tableau, ETL / ELT Development<br><br>- DATA MODELING: Star Schema, Dimensional Modeling, Data Vault, Metadata Management, Schema Design<br><br>- DASHBOARDING & BI TOOLS: Tableau, Power BI, QuickSight, JReport, KPI Dashboards, Ad-hoc Reporting<br><br>- APIs & INTEGRATION: REST API, SOAP API, API Building, API Integration, API Testing, Postman, Swagger<br><br>- TESTING & VALIDATION: Unit, Integration, System, Regression, ETL Testing, Data Validation<br><br>- DEVOPS: Git, GitHub, GitLab, Bitbucket, Terraform, Jenkins, WinSCP, Jira, Confluence, Agile / Scrum<br>CONTAINERS: Docker, Kubernetes<br><br>- DATA ENGINEERING & SOLUTION ARCHITECTURE: Data Pipeline Design, Data Integration, Data Quality,<br>Governance, Batch-Stream Processing, Performance Tuning, High Availability-Fault Tolerance, Scalability, Cost<br>Optimize, Multi-Account Architecture, Disaster Recovery, Backup Strategies, Hybrid Cloud Integration, Security Best<br>Practices<br><br>Email : gokul.227.r@gmail.com<br>Contact : +91 9943316256, +1 (647) 957-5025, +66 61 871 9424
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=260&section=header&text=Gokul%20R&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Senior%20AWS%20Data%20Engineer%20%7C%20Cloud%20Solutions%20Architect%20%7C%20Enterprise%20Data%20Platform%20Expert&descAlignY=70"/>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Gokul227) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gocool_r) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gokul-07) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/gokul_r_07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gokul.227.r@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Teradata](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Gitee](https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gokul-r-7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=gokul-r-7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-r-7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=1000&lines=Designing+Enterprise-Scale+AWS+Data+Platforms;Building+Secure+and+Scalable+Cloud+Architectures;Expert+in+ETL%2C+Glue%2C+Lambda%2C+Athena%2C+PySpark;Cloud+Migration+%7C+Data+Engineering+%7C+Serverless;Delivering+Production-Grade+Systems+That+Scale"/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gokul-r-7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://img.shields.io/badge/AWS-Senior%20Expert-FF9900?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Data%20Engineer-Enterprise-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud%20Architect-Professional-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Experience-7%2B%20Years-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge"/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=gokul-r-7&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=gokul-r-7&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Gokul R) 
+# 🧠 Executive Profile
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I am a **Senior AWS Data Engineer and Cloud Solutions Architect with 7+ years of experience designing and delivering enterprise-scale cloud data platforms** across Banking, Healthcare, Insurance, and Retail industries.
+
+I specialize in building **secure, high-performance ETL pipelines, modern data lakes, and scalable distributed data systems** capable of processing terabytes of data efficiently using AWS serverless and big data technologies.
+
+My expertise includes **end-to-end architecture design, cloud migration, infrastructure automation, and production deployment**, ensuring reliability, scalability, security, and cost optimization.
+
+I focus on building **production-grade, mission-critical systems that scale reliably and deliver long-term business value.**
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gokul.227.r@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gokul-07) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Gokul227) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gocool_r) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/gokul_r_07) 
+
+</div>
+
+---
+
+# 🛠 KEY SKILLS
+
+## ☁️  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) Services
+
+| Category | Technologies |
+|--------|--------------|
+| Compute | EC2, Lambda, ECS, Fargate, EMR, SageMaker,  |
+| Containers & DevOps | ECR, CodeBuild, CodeDeploy, CodePipeline, CodeCommit, Cloud9 |
+| Storage | S3, EBS, EFS, Storage Gateway, AWS DataSync | 
+| Databases | RDS, Aurora, DynamoDB, DocumentDB |
+| Data Warehousing & Analytics | Redshift, Athena, Glue, Lake Formation, QuickSight |
+| Streaming & Messaging | Kinesis, MSK (Kafka), SNS, SQS, SES, EventBridge |
+| API & Integration | API Gateway, Step Functions, MWAA (Airflow) |
+| Migration & Hybrid Connectivity | DMS, AWS Transfer Family, Direct Connect |
+| Security & Identity | IAM, Cognito, AWS WAF, AWS Shield, KMS, Secret Manager |
+| Monitoring & Governance | CloudWatch, CloudTrail, AWS Health Dashboard, Systems Manager |
+| Networking & CDN | Route 53, CloudFront, VPC |
+| Infrastructure as Code | CloudFormation |
+
+
+---
+
+## 🗄 DATABASES & WAREHOUSING
+
+| Type | Technologies |
+|---|---|
+| Relational | ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) , ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white), ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white), ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  |
+| NoSQL | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) , DynamoDB, DocumentDB |
+| Data Warehouse | Redshift, Snowflake, BigQuery |
+| Data Lake | Amazon S3, Athena |
+
+---
+
+## 💻 PROGRAMMING LANGUAGES
+
+| Language | Expertise |
+|---|---|
+| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)| ⭐⭐⭐⭐⭐ |
+| ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)| ⭐⭐⭐⭐⭐ |
+| SQL | ⭐⭐⭐⭐⭐ |
+| ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) | ⭐⭐⭐⭐ |
+| ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) , ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white), Linux | ⭐⭐⭐⭐ |
+
+---
+
+## ⚙️ DevOps & Infrastructure
+
+| Category | Tools |
+|---|---|
+| Version Control |  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white), ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white), ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) , ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)  |
+| CI/CD | ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) , CodePipeline |
+| Infrastructure | ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white), ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white), CloudFormation|
+| Containers | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white), ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) |
+
+---
+
+# 🚀 CORE COMPETENCIES
+
+<div align="center">
+
+| DOMAIN | EXPERTISE LEVEL | FOCUS |
+|------|----------------|------|
+| AWS Cloud Architecture | ⭐⭐⭐⭐⭐ | Enterprise Architecture |
+| Data Engineering | ⭐⭐⭐⭐⭐ | Batch & Real-time pipelines |
+| ETL Development | ⭐⭐⭐⭐⭐ | Glue, PySpark, Airflow |
+| Data Warehousing | ⭐⭐⭐⭐⭐ | Redshift, Athena, Snowflake |
+| Cloud Migration | ⭐⭐⭐⭐⭐ | Legacy to AWS |
+| DevOps & IaC | ⭐⭐⭐⭐ | Terraform, CI/CD |
+| Distributed Systems | ⭐⭐⭐⭐ | Scalable architectures |
+
+</div>
+
+---
+
+# 💼 Professional Experience
+
+<div align="center">
+
+| Role | Company | Duration |
+|-----|---------|----------|
+| Senior AWS Data Engineer | NatWest Group, Bangalore, India | May 2025 – Mar 2026 |
+| Process Manager | eClerx, Mumbai, India | Oct 2024 – May 2025 |
+| Solutions Engineer | Aligned Automation, Pune, India | Aug 2022 – Mar 2023 |
+| Associate Business Analyst | Infosys, Bangalore, India | Oct 2021 – Aug 2022 |
+| Application Developer | IBM, Bangalore, India | Dec 2019 – Oct 2021 |
+| Software Engineer Intern | iPrimed Educational Solutions, Bangalore, India| Apr 2018 – Dec 2019 |
+
+</div>
+
+---
+
+# 🎓 Education
+
+<div align="center">
+
+| Degree | Field | Institution | Duration |
+|------|------|-------------|--------------|
+| Bachelor of Technology | Information Technology | Anna University | Jun 2015 - Apr 2018
+
+</div>
+
+---
+
+# 🏆 Certifications
+
+<div align="center">
+
+| Certification | Provider | Status |
+|--------------|----------|--------|
+| AWS Certified Cloud Practitioner | Amazon Web Services | Certified |
+| AWS Certified Developer  | Amazon Web Services | Certified |
+| AWS Certified Data Engineer  | Amazon Web Services  | Certified |
+| AWS Certified Solution Architect | Amazon Web Services | Certified |
+
+</div>
+
+---
+
+# 🔹 WHAT I CAN DO FOR YOU
+
+✔ Design & implement enterprise-grade AWS data platforms  
+✔ Build high-performance batch & real-time pipelines  
+✔ Implement serverless & event-driven architectures  
+✔ Automate infrastructure, deployments & governance  
+✔ Optimize AWS cost, performance & reliability  
+✔ Secure data platforms with compliance-ready architectures  
+✔ Provide clear documentation & operational support  
+✔ Deliver production-ready scalable solutions  
+
+---
+
+# 🔹 RESULTS I DELIVER
+
+📉 Reduced AWS & licensing costs by up to 35%  
+⚡ Improved ETL & pipeline performance by 40–50%  
+📊 Built pipelines processing TB-scale enterprise data  
+🤖 Reduced manual operations by 60–70%  
+🏗 Delivered production-ready enterprise systems  
+🔐 Implemented RBAC, encryption & governance  
+📈 Enabled real-time analytics & business intelligence  
+🚀 Improved scalability, reliability & performance  
+
+---
+
+# 🔹 WHY CLIENTS HIRE ME
+
+⭐ Senior-level ownership and accountability  
+⭐ Deep AWS & data engineering expertise  
+⭐ Strong communication and collaboration  
+⭐ Focus on scalable production solutions  
+⭐ Proven enterprise project delivery experience  
+⭐ Reliable and transparent execution  
+⭐ Strong architecture and system design skills  
+⭐ Trusted for mission-critical systems  
+
+---
+
+# 🔹 ENGAGEMENT MODELS
+
+• Full-time employment opportunities  
+• Contract and freelance consulting  
+• Cloud architecture consulting  
+• AWS migration projects  
+• Performance optimization engagements  
+• Long-term or short-term engagements  
+• Architecture review & advisory  
+• End-to-end system design and implementation  
+
+---
+
+# 🔹 IDEAL CLIENTS
+
+✔ Enterprises migrating legacy systems to AWS  
+✔ Startups building modern data platforms  
+✔ Organizations optimizing cloud performance  
+✔ Companies scaling data infrastructure  
+✔ Teams requiring secure data platforms  
+✔ Businesses needing enterprise architecture  
+✔ Clients requiring production-ready solutions  
+✔ Organizations prioritizing scalability & reliability  
+
+---
+
+# 🔹 IMPACT & EXCELLENCE
+
+💡 Delivered enterprise-scale AWS platforms  
+💡 Built highly scalable data pipelines  
+💡 Enabled real-time business analytics  
+💡 Improved system reliability & performance  
+💡 Reduced operational complexity  
+💡 Implemented secure cloud architectures  
+💡 Ensured compliance and governance  
+💡 Delivered measurable business value  
+
+---
+
+# 🔹 ARCHITECTURE EXPERTISE
+
+✔ Enterprise Cloud Architecture  
+✔ Modern Data Lake Architecture  
+✔ Serverless Data Platforms  
+✔ Distributed Data Processing Systems  
+✔ Cloud Migration Architecture  
+✔ ETL Pipeline Architecture  
+✔ Real-time Streaming Systems  
+✔ Secure and Scalable Cloud Systems  
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=gokul-07&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gokul-07&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gokul-07&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+
+
+<div align="center">
+
+⭐ Architecting Enterprise-Grade Cloud Data Platforms That Scale, Perform, and Last ⭐
+
+</div>
