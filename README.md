@@ -20,7 +20,7 @@
 
 # 🧠 Executive Profile
 
-I am a **Senior AWS Data Engineer and Cloud Solutions Architect with 7+ years of experience designing and delivering enterprise-scale cloud data platforms** across Banking, Healthcare, Insurance, and Retail industries.
+I am a **Senior AWS Data Engineer and Cloud Solutions Architect with 8+ years of experience designing and delivering enterprise-scale cloud data platforms** across Banking, Healthcare, Insurance, and Retail industries.
 
 I specialize in building **secure, high-performance ETL pipelines, modern data lakes, and scalable distributed data systems** capable of processing terabytes of data efficiently using AWS serverless and big data technologies.
 
