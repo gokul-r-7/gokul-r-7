@@ -126,8 +126,8 @@ I focus on building **production-grade, mission-critical systems that scale reli
 |-----|---------|----------|
 | Senior AWS Data Engineer | NatWest Group | May 2024 – Mar 2026 |
 | AWS Data Engineer | Infosys | Oct 2021 - March 2024 |
-| Data Engineer  | IBM  | Dec 2019 – Oct 2021 |
-| Software Engineer Intern | iPrimed Educational Solutions | Apr 2018 – Dec 2019 |
+| Data Engineer  | IBM  | Apr 2019 – Oct 2021 |
+| Software Engineer Intern | iPrimed Educational Solutions | Apr 2018 – Apr 2019 |
 
 </div>
 
