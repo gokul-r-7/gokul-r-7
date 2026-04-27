@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/AWS-Senior%20Expert-FF9900?style=for-the-badge&logo=amazonaws"/>
 <img src="https://img.shields.io/badge/Data%20Engineer-Enterprise-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Cloud%20Architect-Professional-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Experience-7%2B%20Years-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Experience-8%2B%20Years-orange?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge"/>
 
 </div>
@@ -124,12 +124,10 @@ I focus on building **production-grade, mission-critical systems that scale reli
 
 | Role | Company | Duration |
 |-----|---------|----------|
-| Senior AWS Data Engineer | NatWest Group, Bangalore, India | May 2025 – Mar 2026 |
-| Process Manager | eClerx, Mumbai, India | Oct 2024 – May 2025 |
-| Solutions Engineer | Aligned Automation, Pune, India | Aug 2022 – Mar 2023 |
-| Associate Business Analyst | Infosys, Bangalore, India | Oct 2021 – Aug 2022 |
-| Application Developer | IBM, Bangalore, India | Dec 2019 – Oct 2021 |
-| Software Engineer Intern | iPrimed Educational Solutions, Bangalore, India| Apr 2018 – Dec 2019 |
+| Senior AWS Data Engineer | NatWest Group | May 2024 – Mar 2026 |
+| AWS Data Engineer | Infosys | Oct 2021 - March 2024 |
+| Data Engineer  | IBM  | Dec 2019 – Oct 2021 |
+| Software Engineer Intern | iPrimed Educational Solutions | Apr 2018 – Dec 2019 |
 
 </div>
 
